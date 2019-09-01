@@ -1,2 +1,3 @@
 # LinuxKernel
-All software programs that gives a brief insight about Linux Kernel
+This LinuxKernel Repository contains all code/software programs that gives a brief insight about Linux Kernel
+internal API.
